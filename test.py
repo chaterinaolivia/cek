@@ -5,4 +5,4 @@ test 1
 test 2
 
 rendang 
-nasi
+nasi hello 
